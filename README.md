@@ -1,6 +1,6 @@
 ![postspark_export_2025-02-25_21-40-55](https://github.com/user-attachments/assets/61286983-4ee7-4363-9926-f8a5f2232b8e)
 
-# Illenium Appearance — Modernized Re-design & Rewrite in Svelte 5
+## Illenium Appearance — Modernized Re-design & Rewrite in Svelte 5
 
 * **Key Features** 
        - Svelte 5 frontend rebuild for enhanced performance
