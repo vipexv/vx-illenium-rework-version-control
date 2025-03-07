@@ -5,12 +5,13 @@
 ### Key Features  
 - Svelte 5 frontend rebuild for enhanced performance  
 - Streamlined UI/UX design overhaul  
-- Optimized backend components (ongoing improvements planned, the goal is to eventually re-write most of it if enough demand is there)
+- Optimized backend components (ongoing improvements planned based on community feedback)
 
 ### Roadmap  
-- Tattoo Shop integration planned for first post-release update  
-- Expanded framework support and features based on community feedback  
-
+- ~~Locale System for Interface~~ (Added in v1.0.1)
+- ~~Custom Ped Support~~ (Added in v1.0.5)
+- ~~Player Tattoo Customization~~ (Added in v1.1.0)
+- Ability to change the theme & colors of the interface
 
 ### Credits  
 - [iLLeniumStudios/illenium-appearance](https://github.com/iLLeniumStudios/illenium-appearance)  
