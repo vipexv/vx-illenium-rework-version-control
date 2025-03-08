@@ -11,7 +11,7 @@
 - ~~Locale System for Interface~~ (Added in v1.0.1)
 - ~~Custom Ped Support~~ (Added in v1.0.5)
 - ~~Player Tattoo Customization~~ (Added in v1.1.0)
-- Ability to change the theme & colors of the interface
+- ~~Ability to change the theme & colors of the interface~~ (Added in v1.1.5)
 
 ### Credits  
 - [iLLeniumStudios/illenium-appearance](https://github.com/iLLeniumStudios/illenium-appearance)  
