@@ -12,6 +12,7 @@
 - ~~Custom Ped Support~~ (Added in v1.0.5)
 - ~~Player Tattoo Customization~~ (Added in v1.1.0)
 - ~~Ability to change the theme & colors of the interface~~ (Added in v1.1.5)
+- ~~Ability to export/import character features/data using JSON/XML along with Menyoo Support~~ (Added in v1.21.0)
 
 ### Credits  
 - [iLLeniumStudios/illenium-appearance](https://github.com/iLLeniumStudios/illenium-appearance)  
