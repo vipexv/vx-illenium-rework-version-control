@@ -23,7 +23,7 @@
 - **Dependencies**: ox_lib  
 - **Preview**: [YouTube](https://youtu.be/tlpdaLniVws)  
 - **Price**: $29.99  
-- **Purchase**: [Tebex](https://vipex.tebex.io/package/6706896)  
+- **Purchase**: [Tebex](https://vipex.tebex.io/package/appearance)  
 
 ---
 
